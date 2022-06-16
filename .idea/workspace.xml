@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-16">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03/section1/SumFunc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03/section1/VarargTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03/section2/Example.kt" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-17">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03/section3/HighOrderTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section1/LambdaTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -52,14 +52,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ExampleKt">
-    <configuration name="BitOpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section4.BitOpKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.LambdaTestKt">
     <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section2.ExampleKt" />
       <module name="HelloKotlin" />
@@ -67,8 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.StringTestKt" />
+    <configuration name="HighOrderTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.HighOrderTestKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section4.LambdaTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,19 +89,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.HighOrderTestKt" />
+      <item itemvalue="Kotlin.LambdaTestKt" />
       <item itemvalue="Kotlin.ExampleKt" />
-      <item itemvalue="Kotlin.StringTestKt" />
       <item itemvalue="Kotlin.SumFuncKt" />
       <item itemvalue="Kotlin.VarargTestKt" />
-      <item itemvalue="Kotlin.BitOpKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaTestKt" />
+        <item itemvalue="Kotlin.HighOrderTestKt" />
         <item itemvalue="Kotlin.ExampleKt" />
         <item itemvalue="Kotlin.SumFuncKt" />
         <item itemvalue="Kotlin.VarargTestKt" />
-        <item itemvalue="Kotlin.StringTestKt" />
-        <item itemvalue="Kotlin.BitOpKt" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655318845393</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022-06-17">
+      <created>1655393992458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655393992458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +152,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="asd" />
     <MESSAGE value="2022-06-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-16" />
+    <MESSAGE value="2022-06-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-17" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
