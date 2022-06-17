@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-17">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/CallByName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/CallByValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/FuncArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/HighOrderTest2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/ParamCount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section3/AnonymousFunctions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section3/ExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section3/InlineFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap02/section2/HelloKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap01/HelloKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap02/section2/StringExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap01/StringExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap02/section2/StringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap01/StringTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +53,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap01" />
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ParamCountKt">
+  <component name="RunManager" selected="Kotlin.ExtensionFunctionKt">
     <configuration name="CallByNameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section2.CallByNameKt" />
       <module name="HelloKotlin" />
@@ -70,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.FuncArgumentKt" />
+    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.ExtensionFunctionKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighOrderTest2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.HighOrderTest2Kt" />
+    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.InlineFunctionKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,17 +96,17 @@
     <list>
       <item itemvalue="Kotlin.CallByNameKt" />
       <item itemvalue="Kotlin.CallByValueKt" />
-      <item itemvalue="Kotlin.FuncArgumentKt" />
-      <item itemvalue="Kotlin.HighOrderTest2Kt" />
+      <item itemvalue="Kotlin.ExtensionFunctionKt" />
+      <item itemvalue="Kotlin.InlineFunctionKt" />
       <item itemvalue="Kotlin.ParamCountKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionFunctionKt" />
+        <item itemvalue="Kotlin.InlineFunctionKt" />
         <item itemvalue="Kotlin.ParamCountKt" />
         <item itemvalue="Kotlin.CallByValueKt" />
         <item itemvalue="Kotlin.CallByNameKt" />
-        <item itemvalue="Kotlin.HighOrderTest2Kt" />
-        <item itemvalue="Kotlin.FuncArgumentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655404981889</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2022-06-17">
+      <created>1655478162808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655478162808</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

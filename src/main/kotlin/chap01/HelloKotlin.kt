@@ -1,4 +1,4 @@
-package chap02.section2// main 타이핑 후 tab 키 : 메인함수 생성
+package chap01// main 타이핑 후 tab 키 : 메인함수 생성
 // maina 타이핑 후 tab 키 : 메인에서 매개변수를 사용하는 경우
 
 //fun main() {
