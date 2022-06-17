@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-17">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap03/section3/HighOrderTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section1/LambdaTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/CallByName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/CallByValue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/FuncArgument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/HighOrderTest2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section2/ParamCount.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,56 +55,56 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LambdaTestKt">
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section2.ExampleKt" />
+  <component name="RunManager" selected="Kotlin.ParamCountKt">
+    <configuration name="CallByNameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.CallByNameKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighOrderTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.HighOrderTestKt" />
+    <configuration name="CallByValueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.CallByValueKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section4.LambdaTestKt" />
+    <configuration name="FuncArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.FuncArgumentKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.SumFuncKt" />
+    <configuration name="HighOrderTest2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.HighOrderTest2Kt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarargTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section1.VarargTestKt" />
+    <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ParamCountKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.HighOrderTestKt" />
-      <item itemvalue="Kotlin.LambdaTestKt" />
-      <item itemvalue="Kotlin.ExampleKt" />
-      <item itemvalue="Kotlin.SumFuncKt" />
-      <item itemvalue="Kotlin.VarargTestKt" />
+      <item itemvalue="Kotlin.CallByNameKt" />
+      <item itemvalue="Kotlin.CallByValueKt" />
+      <item itemvalue="Kotlin.FuncArgumentKt" />
+      <item itemvalue="Kotlin.HighOrderTest2Kt" />
+      <item itemvalue="Kotlin.ParamCountKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LambdaTestKt" />
-        <item itemvalue="Kotlin.HighOrderTestKt" />
-        <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.SumFuncKt" />
-        <item itemvalue="Kotlin.VarargTestKt" />
+        <item itemvalue="Kotlin.ParamCountKt" />
+        <item itemvalue="Kotlin.CallByValueKt" />
+        <item itemvalue="Kotlin.CallByNameKt" />
+        <item itemvalue="Kotlin.HighOrderTest2Kt" />
+        <item itemvalue="Kotlin.FuncArgumentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655393992458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022-06-17">
+      <created>1655404981889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655404981889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
