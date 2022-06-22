@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-22">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/InfixFunction2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/NormalFactorial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/TailRecFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/LocalFunctionRange.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/ScopeTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +53,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TailRecFactorialKt">
-    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.ExtensionFunctionKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ScopeTestKt">
     <configuration name="InfixFunction2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section4.InfixFunction2Kt" />
       <module name="HelloKotlin" />
@@ -69,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfixFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.InfixFunctionKt" />
+    <configuration name="LocalFunctionRangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section5.LocalFunctionRangeKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +70,13 @@
     </configuration>
     <configuration name="NormalFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section4.NormalFactorialKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section4.ScopeTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,18 +91,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.InfixFunction2Kt" />
-      <item itemvalue="Kotlin.InfixFunctionKt" />
+      <item itemvalue="Kotlin.LocalFunctionRangeKt" />
       <item itemvalue="Kotlin.NormalFactorialKt" />
+      <item itemvalue="Kotlin.ScopeTestKt" />
       <item itemvalue="Kotlin.TailRecFactorialKt" />
-      <item itemvalue="Kotlin.ExtensionFunctionKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ScopeTestKt" />
+        <item itemvalue="Kotlin.LocalFunctionRangeKt" />
         <item itemvalue="Kotlin.TailRecFactorialKt" />
         <item itemvalue="Kotlin.NormalFactorialKt" />
         <item itemvalue="Kotlin.InfixFunction2Kt" />
-        <item itemvalue="Kotlin.InfixFunctionKt" />
-        <item itemvalue="Kotlin.ExtensionFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655907883033</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2022-06-22">
+      <created>1655909143466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655909143466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
