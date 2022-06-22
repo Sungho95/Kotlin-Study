@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-18">
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-22">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/InfixFunction2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/NormalFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap04/section4/TailRecFactorial.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +54,16 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InfixFunctionKt">
-    <configuration name="CallByValueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.CallByValueKt" />
+  <component name="RunManager" selected="Kotlin.TailRecFactorialKt">
+    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.ExtensionFunctionKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.ExtensionFunctionKt" />
+    <configuration name="InfixFunction2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section4.InfixFunction2Kt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,34 +76,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.InlineFunctionKt" />
+    <configuration name="NormalFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section4.NormalFactorialKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.ParamCountKt" />
+    <configuration name="TailRecFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section4.TailRecFactorialKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.InfixFunction2Kt" />
       <item itemvalue="Kotlin.InfixFunctionKt" />
-      <item itemvalue="Kotlin.CallByValueKt" />
+      <item itemvalue="Kotlin.NormalFactorialKt" />
+      <item itemvalue="Kotlin.TailRecFactorialKt" />
       <item itemvalue="Kotlin.ExtensionFunctionKt" />
-      <item itemvalue="Kotlin.InlineFunctionKt" />
-      <item itemvalue="Kotlin.ParamCountKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TailRecFactorialKt" />
+        <item itemvalue="Kotlin.NormalFactorialKt" />
+        <item itemvalue="Kotlin.InfixFunction2Kt" />
         <item itemvalue="Kotlin.InfixFunctionKt" />
         <item itemvalue="Kotlin.ExtensionFunctionKt" />
-        <item itemvalue="Kotlin.InlineFunctionKt" />
-        <item itemvalue="Kotlin.ParamCountKt" />
-        <item itemvalue="Kotlin.CallByValueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655480098413</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2022-06-22">
+      <created>1655907883033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655907883033</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +184,8 @@
     <MESSAGE value="2022-06-16" />
     <MESSAGE value="2022-06-17" />
     <MESSAGE value="2022-06-18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-18" />
+    <MESSAGE value="2022-06-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
