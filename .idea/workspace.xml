@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-24">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/WhenTest.kt" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-25">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/DoWhileTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/WhileFactorial.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfElseIfTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfElseIfTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,56 +56,56 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.WhenNoArgsKt">
-    <configuration name="IfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.IfConditionKt" />
+  <component name="RunManager" selected="Kotlin.DoWhileTestKt">
+    <configuration name="DoWhileTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.DoWhileTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfCondotion2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.IfCondotion2Kt" />
+    <configuration name="ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.ForKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.IfElseIfTestKt" />
+    <configuration name="ForSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.ForSumKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.WhenNoArgsKt" />
+    <configuration name="ForTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.ForTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section1.WhenTestKt" />
+    <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.WhileFactorialKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.IfConditionKt" />
-      <item itemvalue="Kotlin.IfCondotion2Kt" />
-      <item itemvalue="Kotlin.IfElseIfTestKt" />
-      <item itemvalue="Kotlin.WhenNoArgsKt" />
-      <item itemvalue="Kotlin.WhenTestKt" />
+      <item itemvalue="Kotlin.DoWhileTestKt" />
+      <item itemvalue="Kotlin.ForKt" />
+      <item itemvalue="Kotlin.ForSumKt" />
+      <item itemvalue="Kotlin.ForTestKt" />
+      <item itemvalue="Kotlin.WhileFactorialKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.WhenNoArgsKt" />
-        <item itemvalue="Kotlin.WhenTestKt" />
-        <item itemvalue="Kotlin.IfElseIfTestKt" />
-        <item itemvalue="Kotlin.IfCondotion2Kt" />
-        <item itemvalue="Kotlin.IfConditionKt" />
+        <item itemvalue="Kotlin.DoWhileTestKt" />
+        <item itemvalue="Kotlin.WhileFactorialKt" />
+        <item itemvalue="Kotlin.ForTestKt" />
+        <item itemvalue="Kotlin.ForSumKt" />
+        <item itemvalue="Kotlin.ForKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656078945546</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2022-06-25">
+      <created>1656084264044</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656084264044</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +224,8 @@
     <MESSAGE value="2022-06-22" />
     <MESSAGE value="2022-06-23" />
     <MESSAGE value="2022-06-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-24" />
+    <MESSAGE value="2022-06-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-25" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
