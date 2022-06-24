@@ -16,3 +16,4 @@ fun main() {
 
     println("score: $score, grade: $grade")
 }
+

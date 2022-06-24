@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-24">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfCondotion2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfElseIfTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/WhenTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfElseIfTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section1/IfElseIfTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.IfElseIfTestKt">
+  <component name="RunManager" selected="Kotlin.WhenNoArgsKt">
     <configuration name="IfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section1.IfConditionKt" />
       <module name="HelloKotlin" />
@@ -75,15 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalFunctionRangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section5.LocalFunctionRangeKt" />
+    <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section1.WhenNoArgsKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section4.ScopeTestKt" />
+    <configuration name="WhenTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section1.WhenTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,16 +93,16 @@
       <item itemvalue="Kotlin.IfConditionKt" />
       <item itemvalue="Kotlin.IfCondotion2Kt" />
       <item itemvalue="Kotlin.IfElseIfTestKt" />
-      <item itemvalue="Kotlin.LocalFunctionRangeKt" />
-      <item itemvalue="Kotlin.ScopeTestKt" />
+      <item itemvalue="Kotlin.WhenNoArgsKt" />
+      <item itemvalue="Kotlin.WhenTestKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenNoArgsKt" />
+        <item itemvalue="Kotlin.WhenTestKt" />
         <item itemvalue="Kotlin.IfElseIfTestKt" />
         <item itemvalue="Kotlin.IfCondotion2Kt" />
         <item itemvalue="Kotlin.IfConditionKt" />
-        <item itemvalue="Kotlin.ScopeTestKt" />
-        <item itemvalue="Kotlin.LocalFunctionRangeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656078426275</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2022-06-24">
+      <created>1656078945546</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656078945546</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
