@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-06-25">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/DoWhileTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/For.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section2/WhileFactorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/InlineLambdaReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/흐름의 종단과 반환.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +53,9 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DoWhileTestKt">
+  <component name="RunManager" selected="Kotlin.InlineLambdaReturnKt">
     <configuration name="DoWhileTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section2.DoWhileTestKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section2.ForKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InlineLambdaReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.InlineLambdaReturnKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section2.WhileFactorialKt" />
       <module name="HelloKotlin" />
@@ -93,19 +90,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.InlineLambdaReturnKt" />
       <item itemvalue="Kotlin.DoWhileTestKt" />
-      <item itemvalue="Kotlin.ForKt" />
       <item itemvalue="Kotlin.ForSumKt" />
       <item itemvalue="Kotlin.ForTestKt" />
       <item itemvalue="Kotlin.WhileFactorialKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InlineLambdaReturnKt" />
         <item itemvalue="Kotlin.DoWhileTestKt" />
         <item itemvalue="Kotlin.WhileFactorialKt" />
         <item itemvalue="Kotlin.ForTestKt" />
         <item itemvalue="Kotlin.ForSumKt" />
-        <item itemvalue="Kotlin.ForKt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656084264044</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2022-06-25">
+      <created>1656085734491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656085734491</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
