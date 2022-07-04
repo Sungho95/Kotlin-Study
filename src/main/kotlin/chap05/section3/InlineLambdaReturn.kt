@@ -18,7 +18,7 @@ fun retFunc() {
 }
 */
 
-// 라벨을 넣어 인라인 함수를 의도에 맞게 조절
+// 라벨 표기를 통해 인라인 함수를 의도에 맞게 조절
 fun retFunc() {
     println("Start of Func")
     inlineLambda(13, 3) lit@{ a, b ->
