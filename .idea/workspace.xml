@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-05">
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-06">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/LabelBreak.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/NonLabelBreak.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,16 +65,16 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NormalContinueKt">
-    <configuration name="DoWhileTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section2.DoWhileTestKt" />
+  <component name="RunManager" selected="Kotlin.LabelBreakKt">
+    <configuration name="LabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.LabelBreakKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InlineLambdaReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.InlineLambdaReturnKt" />
+    <configuration name="NonLabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.NonLabelBreakKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,19 +102,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.LabelBreakKt" />
+      <item itemvalue="Kotlin.NonLabelBreakKt" />
       <item itemvalue="Kotlin.NormalBreakKt" />
       <item itemvalue="Kotlin.NormalContinueKt" />
-      <item itemvalue="Kotlin.DoWhileTestKt" />
-      <item itemvalue="Kotlin.InlineLambdaReturnKt" />
       <item itemvalue="Kotlin.StringTestKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LabelBreakKt" />
+        <item itemvalue="Kotlin.NonLabelBreakKt" />
         <item itemvalue="Kotlin.NormalContinueKt" />
         <item itemvalue="Kotlin.NormalBreakKt" />
         <item itemvalue="Kotlin.StringTestKt" />
-        <item itemvalue="Kotlin.InlineLambdaReturnKt" />
-        <item itemvalue="Kotlin.DoWhileTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657032151440</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2022-07-06">
+      <created>1657117906520</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657117906520</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +272,8 @@
     <MESSAGE value="2022-06-26" />
     <MESSAGE value="2022-07-04" />
     <MESSAGE value="2022-07-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-05" />
+    <MESSAGE value="2022-07-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-06" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
