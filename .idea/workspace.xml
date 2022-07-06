@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-04" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap01/HelloKotlin.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap01/StringExpression.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap01/StringTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section2/DoWhileTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section2/For.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForSum.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section2/ForTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section2/WhileFactorial.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/chap05/section3/InlineLambdaReturn.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +63,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NormalBreakContinueKt">
+  <component name="RunManager" selected="Kotlin.NormalContinueKt">
     <configuration name="DoWhileTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section2.DoWhileTestKt" />
       <module name="HelloKotlin" />
@@ -65,8 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalBreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalBreakContinueKt" />
+    <configuration name="NormalBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalBreakKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NormalContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalContinueKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,27 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section2.WhileFactorialKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.NormalBreakContinueKt" />
+      <item itemvalue="Kotlin.NormalBreakKt" />
+      <item itemvalue="Kotlin.NormalContinueKt" />
       <item itemvalue="Kotlin.DoWhileTestKt" />
       <item itemvalue="Kotlin.InlineLambdaReturnKt" />
       <item itemvalue="Kotlin.StringTestKt" />
-      <item itemvalue="Kotlin.WhileFactorialKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.NormalBreakContinueKt" />
+        <item itemvalue="Kotlin.NormalContinueKt" />
+        <item itemvalue="Kotlin.NormalBreakKt" />
         <item itemvalue="Kotlin.StringTestKt" />
         <item itemvalue="Kotlin.InlineLambdaReturnKt" />
         <item itemvalue="Kotlin.DoWhileTestKt" />
-        <item itemvalue="Kotlin.WhileFactorialKt" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656943765083</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2022-07-05">
+      <created>1657032151440</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657032151440</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +262,8 @@
     <MESSAGE value="2022-06-25" />
     <MESSAGE value="2022-06-26" />
     <MESSAGE value="2022-07-04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-04" />
+    <MESSAGE value="2022-07-05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-05" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
