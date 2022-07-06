@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/LabelBreak.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section3/NonLabelBreak.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/ThrowExceptionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/TryCatchTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/예외 처리.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalBreakKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NormalContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalContinueKt" />
       <module name="HelloKotlin" />
@@ -94,27 +88,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.StringTestKt" />
+    <configuration name="ThrowExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section4.ThrowExceptionTestKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section4.TryCatchTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.ThrowExceptionTestKt" />
+      <item itemvalue="Kotlin.TryCatchTestKt" />
       <item itemvalue="Kotlin.LabelBreakKt" />
       <item itemvalue="Kotlin.NonLabelBreakKt" />
-      <item itemvalue="Kotlin.NormalBreakKt" />
       <item itemvalue="Kotlin.NormalContinueKt" />
-      <item itemvalue="Kotlin.StringTestKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.LabelBreakKt" />
+        <item itemvalue="Kotlin.ThrowExceptionTestKt" />
+        <item itemvalue="Kotlin.TryCatchTestKt" />
         <item itemvalue="Kotlin.NonLabelBreakKt" />
         <item itemvalue="Kotlin.NormalContinueKt" />
-        <item itemvalue="Kotlin.NormalBreakKt" />
-        <item itemvalue="Kotlin.StringTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657117906520</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2022-07-06">
+      <created>1657118222008</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657118222008</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
