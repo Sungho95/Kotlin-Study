@@ -15,3 +15,4 @@ fun labelBreak() {
 fun main() {
     labelBreak()
 }
+
