@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/ThrowExceptionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/TryCatchTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap05/section4/예외 처리.md" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657118222008</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2022-07-07">
+      <created>1657130986924</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1657130986925</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2022-07-07">
+      <created>1657205937058</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657205937058</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +292,8 @@
     <MESSAGE value="2022-07-04" />
     <MESSAGE value="2022-07-05" />
     <MESSAGE value="2022-07-06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-06" />
+    <MESSAGE value="2022-07-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-07" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
