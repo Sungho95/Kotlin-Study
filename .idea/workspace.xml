@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-09" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-09">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap02/section2/minmax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap02/section2/minmax.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LabelBreakKt">
+  <component name="RunManager" selected="Kotlin.MinmaxKt">
     <configuration name="LabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section3.LabelBreakKt" />
       <module name="HelloKotlin" />
@@ -69,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonLabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.NonLabelBreakKt" />
+    <configuration name="MinmaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap02.section2.MinmaxKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.NormalContinueKt" />
+    <configuration name="NonLabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section3.NonLabelBreakKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,19 +101,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.MinmaxKt" />
       <item itemvalue="Kotlin.ThrowExceptionTestKt" />
       <item itemvalue="Kotlin.TryCatchTestKt" />
       <item itemvalue="Kotlin.LabelBreakKt" />
       <item itemvalue="Kotlin.NonLabelBreakKt" />
-      <item itemvalue="Kotlin.NormalContinueKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MinmaxKt" />
         <item itemvalue="Kotlin.LabelBreakKt" />
         <item itemvalue="Kotlin.ThrowExceptionTestKt" />
         <item itemvalue="Kotlin.TryCatchTestKt" />
         <item itemvalue="Kotlin.NonLabelBreakKt" />
-        <item itemvalue="Kotlin.NormalContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657363017637</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2022-07-09">
+      <created>1657458158949</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657458158949</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
