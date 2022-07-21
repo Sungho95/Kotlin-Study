@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-11">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section2/클로저.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section3/코틀린의 표준 라이브러리.md" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-20">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section3/let의 활용.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section3/코틀린의 표준 라이브러리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section3/코틀린의 표준 라이브러리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AsdKt">
+  <component name="RunManager" selected="Kotlin.LetFunChainingKt">
     <configuration name="AsdKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.section1.AsdKt" />
       <module name="HelloKotlin" />
@@ -81,6 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LetFunChainingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.LetFunChainingKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section3.LetTestKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinmaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap02.section2.MinmaxKt" />
       <module name="HelloKotlin" />
@@ -88,34 +102,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.ThrowExceptionTestKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.TryCatchTestKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Kotlin.LetFunChainingKt" />
+      <item itemvalue="Kotlin.LetTestKt" />
       <item itemvalue="Kotlin.AsdKt" />
       <item itemvalue="Kotlin.MinmaxKt" />
-      <item itemvalue="Kotlin.ThrowExceptionTestKt" />
-      <item itemvalue="Kotlin.TryCatchTestKt" />
       <item itemvalue="Kotlin.LabelBreakKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LetFunChainingKt" />
+        <item itemvalue="Kotlin.LetTestKt" />
+        <item itemvalue="Kotlin.LabelBreakKt" />
         <item itemvalue="Kotlin.AsdKt" />
         <item itemvalue="Kotlin.MinmaxKt" />
-        <item itemvalue="Kotlin.LabelBreakKt" />
-        <item itemvalue="Kotlin.ThrowExceptionTestKt" />
-        <item itemvalue="Kotlin.TryCatchTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +296,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657532886562</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2022-07-13">
+      <created>1657722485212</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657722485212</updated>
+    </task>
+    <task id="LOCAL-00026" summary="2022-07-13">
+      <created>1657722499251</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1657722499251</updated>
+    </task>
+    <task id="LOCAL-00027" summary="2022-07-20">
+      <created>1658294985846</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658294985846</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +347,9 @@
     <MESSAGE value="2022-07-07" />
     <MESSAGE value="2022-07-09" />
     <MESSAGE value="2022-07-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-11" />
+    <MESSAGE value="2022-07-13" />
+    <MESSAGE value="2022-07-20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-20" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
