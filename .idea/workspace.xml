@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-23">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/AlsoTest.kt" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-24">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section5/ApplyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section5/apply() 활용하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/also() 활용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/also() 활용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/특정 단위의 동작 분리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/특정 단위의 동작 분리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AlsoTestKt">
+  <component name="RunManager" selected="Kotlin.ApplyTestKt">
     <configuration name="AlsoTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.section4.AlsoTestKt" />
       <module name="HelloKotlin" />
@@ -74,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AsdKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section1.AsdKt" />
+    <configuration name="ApplyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section5.ApplyTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,18 +106,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.AlsoTestKt" />
+      <item itemvalue="Kotlin.ApplyTestKt" />
       <item itemvalue="Kotlin.LetFunChainingKt" />
       <item itemvalue="Kotlin.LetTestKt" />
-      <item itemvalue="Kotlin.AsdKt" />
       <item itemvalue="Kotlin.LabelBreakKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ApplyTestKt" />
         <item itemvalue="Kotlin.AlsoTestKt" />
         <item itemvalue="Kotlin.LetFunChainingKt" />
         <item itemvalue="Kotlin.LetTestKt" />
         <item itemvalue="Kotlin.LabelBreakKt" />
-        <item itemvalue="Kotlin.AsdKt" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658583698740</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2022-07-24">
+      <created>1658672470045</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658672470045</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,7 +374,8 @@
     <MESSAGE value="2022-07-20" />
     <MESSAGE value="2022-07-21" />
     <MESSAGE value="2022-07-23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-23" />
+    <MESSAGE value="2022-07-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-24" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

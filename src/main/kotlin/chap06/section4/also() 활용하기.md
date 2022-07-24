@@ -4,7 +4,7 @@
 ```kotlin
 // 표준 함수의 정의 let과 비교
 public inline fun <T, R> T.let(block: (T) -> R): R = block(this)
-public inline fun <T, R> T.also(block: (T) -> Unit): T { block(this); return this }
+public inline fun <T> T.also(block: (T) -> Unit): T { block(this); return this }
 ```
 * also는 블록 안의 코드 수행 결과와 상관없이 T인 객체 this를 반환
 ```kotlin
