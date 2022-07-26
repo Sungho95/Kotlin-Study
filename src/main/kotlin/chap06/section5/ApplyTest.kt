@@ -12,5 +12,9 @@ fun main() {
         skills = "Java" // this 없이 객체의 멤버에 여러 번 접근
     }
     println(person)
-    print(returnObj)
+    println(returnObj)
+
+    val unumber = 123u
+    val unumber2: UInt = 123u
+    println(unumber == unumber2)
 }

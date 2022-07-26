@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-24">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section5/ApplyTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section5/apply() 활용하기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/also() 활용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/also() 활용하기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/특정 단위의 동작 분리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section4/특정 단위의 동작 분리.md" afterDir="false" />
-    </list>
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -340,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658672470045</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2022-07-25">
+      <created>1658675242191</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1658675242191</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +376,8 @@
     <MESSAGE value="2022-07-21" />
     <MESSAGE value="2022-07-23" />
     <MESSAGE value="2022-07-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-24" />
+    <MESSAGE value="2022-07-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-25" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
