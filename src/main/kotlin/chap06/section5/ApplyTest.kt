@@ -13,8 +13,4 @@ fun main() {
     }
     println(person)
     println(returnObj)
-
-    val unumber = 123u
-    val unumber2: UInt = 123u
-    println(unumber == unumber2)
 }
