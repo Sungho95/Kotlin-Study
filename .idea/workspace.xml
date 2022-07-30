@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-27" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-29" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658930165870</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2022-07-29">
+      <created>1659106074016</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1659106074017</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +414,8 @@
     <MESSAGE value="2022-07-25" />
     <MESSAGE value="2022-07-26" />
     <MESSAGE value="2022-07-27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-27" />
+    <MESSAGE value="2022-07-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-29" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
