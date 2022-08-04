@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-30" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-31">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section6/RunTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section6/run() 활용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ApplyTestKt">
+  <component name="RunManager" selected="Kotlin.RunTestKt">
     <configuration name="AlsoTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.section4.AlsoTestKt" />
       <module name="HelloKotlin" />
@@ -72,13 +76,6 @@
     </configuration>
     <configuration name="ApplyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.section5.ApplyTestKt" />
-      <module name="HelloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LabelBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section3.LabelBreakKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,20 +95,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section6.RunTestKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Kotlin.RunTestKt" />
       <item itemvalue="Kotlin.AlsoTestKt" />
       <item itemvalue="Kotlin.ApplyTestKt" />
       <item itemvalue="Kotlin.LetFunChainingKt" />
       <item itemvalue="Kotlin.LetTestKt" />
-      <item itemvalue="Kotlin.LabelBreakKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RunTestKt" />
         <item itemvalue="Kotlin.ApplyTestKt" />
         <item itemvalue="Kotlin.AlsoTestKt" />
         <item itemvalue="Kotlin.LetFunChainingKt" />
         <item itemvalue="Kotlin.LetTestKt" />
-        <item itemvalue="Kotlin.LabelBreakKt" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659192011334</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2022-07-31">
+      <created>1659198981919</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1659198981920</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="asd" />
     <MESSAGE value="2022-06-16" />
     <MESSAGE value="2022-06-17" />
     <MESSAGE value="2022-06-18" />
@@ -423,7 +433,8 @@
     <MESSAGE value="2022-07-27" />
     <MESSAGE value="2022-07-29" />
     <MESSAGE value="2022-07-30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-30" />
+    <MESSAGE value="2022-07-31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-31" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
