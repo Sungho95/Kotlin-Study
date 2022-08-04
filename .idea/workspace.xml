@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-07-31">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section6/RunTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section6/run() 활용하기.md" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-04">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section7/with() 활용하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -394,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659198981920</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2022-08-04">
+      <created>1659623916972</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1659623916972</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-06-16" />
     <MESSAGE value="2022-06-17" />
     <MESSAGE value="2022-06-18" />
     <MESSAGE value="2022-06-22" />
@@ -434,7 +439,8 @@
     <MESSAGE value="2022-07-29" />
     <MESSAGE value="2022-07-30" />
     <MESSAGE value="2022-07-31" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-07-31" />
+    <MESSAGE value="2022-08-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-08-04" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
