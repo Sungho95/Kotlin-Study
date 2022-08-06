@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-05">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section7/WithTest.kt" afterDir="false" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-06">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section8/use() 활용하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section7/with() 활용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section7/with() 활용하기.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -408,7 +407,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659635063383</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="2022-08-06">
+      <created>1659796935427</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1659796935427</updated>
+    </task>
+    <task id="LOCAL-00042" summary="2022-08-06">
+      <created>1659796982367</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1659796982367</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +436,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-06-18" />
     <MESSAGE value="2022-06-22" />
     <MESSAGE value="2022-06-23" />
     <MESSAGE value="2022-06-24" />
@@ -448,7 +460,8 @@
     <MESSAGE value="2022-07-31" />
     <MESSAGE value="2022-08-04" />
     <MESSAGE value="2022-08-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-08-05" />
+    <MESSAGE value="2022-08-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-08-06" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
