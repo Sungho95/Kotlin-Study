@@ -7,12 +7,21 @@
 public inline fun <T, R> with(receiver: T, block: T.() -> R): R = receiver.block()
 ```
 
-* with는 세이프 콜(?.)은 지원하지 않기 때문에 다음과 같이 let과 같이 사용
+* with는 세이프 콜(?.)은 지원하지 않기 때문에 다음과 같이 let과 같이 사용해야 한다.
 ```kotlin
 supportActionBar?.let {
     with(it) {
         setDisplayHomeAsUpEnabled(true)
         setHomeAsUpIndicator(R.drawable.ic_clear_white)
     }
+}
+```
+ 
+## let과 with 표현 병합
+* run과 동일
+```kotlin
+supportActionBar?.run {
+  setDisplayHomeAsUpEnabled(true)
+  setHomeAsUpIndicator(R.drawable.ic_clear_white)
 }
 ```
