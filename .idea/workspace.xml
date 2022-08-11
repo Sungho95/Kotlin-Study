@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-07" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659800467904</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2022-08-09">
+      <created>1660050549239</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1660050549239</updated>
+    </task>
+    <task id="LOCAL-00045" summary="2022-08-10">
+      <created>1660140344083</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1660140344083</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,8 +456,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-06-23" />
-    <MESSAGE value="2022-06-24" />
     <MESSAGE value="2022-06-25" />
     <MESSAGE value="2022-06-26" />
     <MESSAGE value="2022-07-04" />
@@ -465,7 +479,9 @@
     <MESSAGE value="2022-08-05" />
     <MESSAGE value="2022-08-06" />
     <MESSAGE value="2022-08-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-08-07" />
+    <MESSAGE value="2022-08-09" />
+    <MESSAGE value="2022-08-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-08-10" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
