@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-13">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section9/난수 생성하기.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section9/시간의 측정.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap06/section9/기타 함수의 활용.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap06/section9/기타 함수의 활용.md" afterDir="false" />
-    </list>
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +62,7 @@
       <recent name="C:\Users\shp\IdeaProjects\HelloKotlin\src\main\kotlin\chap02\section2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.WithTestKt">
+  <component name="RunManager" selected="Kotlin.RandomTestKt">
     <configuration name="AlsoTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.section4.AlsoTestKt" />
       <module name="HelloKotlin" />
@@ -82,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetFunChainingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.section3.LetFunChainingKt" />
+    <configuration name="RandomTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section9.RandomTestKt" />
       <module name="HelloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,19 +99,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.RandomTestKt" />
       <item itemvalue="Kotlin.WithTestKt" />
       <item itemvalue="Kotlin.RunTestKt" />
       <item itemvalue="Kotlin.AlsoTestKt" />
       <item itemvalue="Kotlin.ApplyTestKt" />
-      <item itemvalue="Kotlin.LetFunChainingKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RandomTestKt" />
         <item itemvalue="Kotlin.WithTestKt" />
         <item itemvalue="Kotlin.RunTestKt" />
         <item itemvalue="Kotlin.ApplyTestKt" />
         <item itemvalue="Kotlin.AlsoTestKt" />
-        <item itemvalue="Kotlin.LetFunChainingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -128,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655109454131</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2022-06-16">
-      <created>1655318845392</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1655318845393</updated>
     </task>
     <task id="LOCAL-00003" summary="2022-06-17">
       <created>1655393992458</created>
@@ -472,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660317754151</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2022-08-13">
+      <created>1660401307502</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1660401307502</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
