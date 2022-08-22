@@ -16,6 +16,8 @@ fun main() {
 
     println("str1: $str2, length: ${str2?.length}") //세이프 콜(?.)
     println("str1: $str2, length: ${len2}")
+
+    asdasd
 }
 
 // Kotlin은 기본적으로 NotNull, Nullable 표현에는 '?' 사용
