@@ -6,4 +6,5 @@ fun main() {
 
     val number = Random.nextInt(21)
     println(number)
+
 }

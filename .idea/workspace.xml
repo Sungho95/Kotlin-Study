@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-13" />
+    <list default="true" id="13f22c67-c954-4305-8d81-4c7badc72ed1" name="Changes" comment="2022-08-17">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,11 +101,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.RandomTestKt" />
-      <item itemvalue="Kotlin.WithTestKt" />
-      <item itemvalue="Kotlin.RunTestKt" />
       <item itemvalue="Kotlin.AlsoTestKt" />
       <item itemvalue="Kotlin.ApplyTestKt" />
+      <item itemvalue="Kotlin.RandomTestKt" />
+      <item itemvalue="Kotlin.RunTestKt" />
+      <item itemvalue="Kotlin.WithTestKt" />
     </list>
     <recent_temporary>
       <list>
@@ -123,13 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655109454131</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2022-06-17">
-      <created>1655393992458</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1655393992458</updated>
     </task>
     <task id="LOCAL-00004" summary="2022-06-17">
       <created>1655404981889</created>
@@ -467,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660401307502</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2022-08-17">
+      <created>1660746084768</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746084769</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022-07-05" />
     <MESSAGE value="2022-07-06" />
     <MESSAGE value="2022-07-07" />
     <MESSAGE value="2022-07-09" />
@@ -507,7 +508,8 @@
     <MESSAGE value="2022-08-11" />
     <MESSAGE value="2022-08-12" />
     <MESSAGE value="2022-08-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-08-13" />
+    <MESSAGE value="2022-08-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-08-17" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
